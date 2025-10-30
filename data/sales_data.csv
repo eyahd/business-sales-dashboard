@@ -1,0 +1,11 @@
+date,product,category,quantity,unit_price,customer_id,channel
+2024-01-01,Latte,Drinks,2,3.5,C001,In-Store
+2024-01-01,Cappuccino,Drinks,1,3.2,C002,In-Store
+2024-01-01,Croissant,Bakery,3,2.0,C001,Delivery
+2024-01-02,Latte,Drinks,1,3.5,C003,In-Store
+2024-01-02,Mocha,Drinks,2,4.0,C004,In-Store
+2024-01-02,Sandwich,Food,1,5.5,C005,Delivery
+2024-01-03,Espresso,Drinks,2,2.8,C002,In-Store
+2024-01-03,Croissant,Bakery,1,2.0,C004,In-Store
+2024-01-04,Latte,Drinks,2,3.5,C001,Delivery
+2024-01-04,Sandwich,Food,1,5.5,C006,In-Store
